@@ -20,4 +20,11 @@ The code is far from the cleanest because it started off as a high school projec
 
 ## Gallery
 
-<img src="/docs/images/LGS exampleOld.png" width="300">
+<img src="/docs/images/LGS exampleOld.png" height="300">
+First working GUI version
+
+<img src="/docs/images/LGS example1.png" height="300">
+Simon Says in logic gates
+
+<img src="/docs/images/LGS example2.png" height="300">
+16-bit CPU compared to Simon Says
