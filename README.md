@@ -20,8 +20,4 @@ The code is far from the cleanest because it started off as a high school projec
 
 ## Gallery
 
-![alt text](https://raw.githubusercontent.com/KamronGeijsen/LogicGateSimulator/master/docs/images/LGS%20exampleOld.png?token=ADXXWHUSALW4MWZXRGBBKN25LKUQG "First GUI version" =300x300)
-
-![alt text](https://raw.githubusercontent.com/KamronGeijsen/LogicGateSimulator/master/docs/images/LGS%20example1.png?token=ADXXWHRA2YY5Z6L6TBBO6DK5LKUKM "SimonSays" =600x300)
-
-![alt text](https://raw.githubusercontent.com/KamronGeijsen/LogicGateSimulator/master/docs/images/LGS%20example2.png?token=ADXXWHR73AJKYJCFXSL5VZC5LKUP6 "16 bit CPU besides SimonSays" =600x300)
+<img src="/docs/images/LGS exampleOld.png" width="300">
